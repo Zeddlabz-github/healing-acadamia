@@ -1,0 +1,65 @@
+/****** Responsive ***/
+
+@media screen and (min-width: 1440px) and (max-width: 1600px) {
+}
+
+@media screen and (min-width: 1202px) and (max-width: 1439px) {
+}
+
+@media screen and (min-width: 992px) and (max-width: 1201px) {
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  header .container .navbar .icon-bar {
+    background: #25b9ff;
+  }
+  header .container .navbar .icon-bar {
+    padding: 11px 8px;
+    width: 49px;
+    height: 45px;
+  }
+  header .container .navbar ._Menus-show {
+    top: 0%;
+  }
+  header .container .navbar ul .close span {
+    border: 1px solid #fff;
+    background: #25b9ff;
+    color: #fff;
+    font-weight: 400;
+  }
+  .close {
+    opacity: 1 !important;
+  }
+  header .container .navbar ul li a {
+    font-weight: 600;
+  }
+}
+
+@media screen and (min-width: 321px) and (max-width: 575px) {
+  header .container .navbar .icon-bar {
+    background: #25b9ff;
+  }
+  header .container .navbar .icon-bar {
+    padding: 11px 8px;
+    width: 49px;
+    height: 45px;
+  }
+  header .container .navbar ._Menus-show {
+    top: 0%;
+  }
+  header .container .navbar ul .close span {
+    border: 1px solid #fff;
+    background: #25b9ff;
+    color: #fff;
+    font-weight: 400;
+  }
+  .close {
+    opacity: 1 !important;
+  }
+  header .container .navbar ul li a {
+    font-weight: 600;
+  }
+}
